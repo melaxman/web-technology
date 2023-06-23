@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+    <img src="img_girl.jpg"> 
+    <img src="img_girl.jpg" alt="Girl with a jacket">
+    <tagname> everything is okay.. </tagname>  <tagname> i look at you... </tagname> 
+    <hr>
+    <a href="https://www.w3schools.com">Visit W3Schools</a> 
+    
+
+    <p><a href="https://www.w3schools.com" target="_blank">laxman </a> is eqaul to infinity</p>
+    <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142"> 
+   
+
+<h1>my life</h1>
+<hr>
+<p>noone can beat me untill i an stay here with my own personality</p>
+
+<p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p> 
+<p>
+    This paragraph
+    contains a lot of lines
+    in the source code,
+    but the browser
+    ignores it.
+    </p>
+    
+    <p>
+    This paragraph
+    contains         a lot of spaces
+    in the source         code,
+    but the        browser
+    ignores it.
+    </p> 
+    <h1 style="background-color:rgb(127, 172, 21);">This is a heading</h1>
+    <p style="background-color:rgb(71, 255, 163);">This is a paragraph.</p>
+    <h1 style="color:blue;">This is a heading</h1>
+    <p style="color:red;">This is a paragraph.</p> 
+    <q>
+        My Bonnie lies over the ocean.
+      
+        My Bonnie lies over the sea.
+      
+        My Bonnie lies over the ocean.
+      
+        Oh, bring back my Bonnie to me.
+    </q> 
+</body>
+</html> 
