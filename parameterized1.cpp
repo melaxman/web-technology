@@ -3,6 +3,9 @@
 using  namespace std;
 class Polar
 {
+
+
+    double w;
     double r;
     double a;
     public:
